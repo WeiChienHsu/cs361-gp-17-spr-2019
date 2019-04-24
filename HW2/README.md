@@ -81,9 +81,7 @@ and why.
 - - User Perference Setting Page
 - - Adjustments Control Page
 - - Energy Usage Report Page
-- - Sensors (Devices) Page ??
-- - Sensors connection Page ??
-- - Notification Info Page
+- - Devices Page (w/ notification info.)
 
 ### Pop-up
 
