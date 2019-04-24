@@ -6,6 +6,8 @@ In this assignment, your team will **evaluate the requirements** that you produc
 
 - Second, meet with your customer. Bring your requirements definition (from HW1) and your paper prototypes to the meeting. Validate your requirements definition by reviewing it with the customer. Then, test your prototype
 
+
+
 - **Update your requirements definition** based on the customer's feedback. 
 
 You must turn in a PDF document containing the following parts:
@@ -66,4 +68,24 @@ and why.
 
 ***
 
-## Work 
+# Prototypes
+
+### Before User Login
+
+- Login Page
+- Authentication Page
+
+### After User Login
+
+- Dashborad (Menu): with logo / user login logout / current Page info / Notification Message Box
+- - User Perference Setting Page
+- - Adjustments Control Page
+- - Energy Usage Report Page
+- - Sensors (Devices) Page ??
+- - Sensors connection Page ??
+- - Notification Info Page
+
+### Pop-up
+
+- Notification
+- Successful Message
