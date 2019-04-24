@@ -72,8 +72,12 @@ and why.
 
 ### Before User Login
 
-- Login Page
+- Login Page / Signup Page
 - Authentication Page
+
+### Installaion and Setup Page
+
+- Sensor Setup
 
 ### After User Login
 
@@ -81,9 +85,10 @@ and why.
 - - User Perference Setting Page
 - - Adjustments Control Page
 - - Energy Usage Report Page
-- - Devices Page (w/ notification info.)
+- - Devices Page (w/ notification info.) - Click and extend more information
+- - Notification History
 
 ### Pop-up
 
-- Notification
-- Successful Message
+- Notification window
+- Successful Message window
