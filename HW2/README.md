@@ -82,9 +82,11 @@ and why.
 ### After User Login
 
 - Dashborad (Menu): with logo / user login logout / current Page info / Notification Message Box
-- - User Perference Setting Page
-- - Adjustments Control Page
-- - Energy Usage Report Page
+- - User Perference Setting Page - Change the Default Setting / Receive Notification/  
+
+- - Adjustments Control Page - Click and extend the options to user
+- - Energy Usage Report Page (Bar Graph / Basic)
+
 - - Devices Page (w/ notification info.) - Click and extend more information
 - - Notification History
 
